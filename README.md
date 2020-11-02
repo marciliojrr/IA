@@ -1,2 +1,2 @@
 # IA
-Repositório para atividades referentes à disciplina de IA
+Repositório para arquivos e atividades referentes à disciplina de IA.
